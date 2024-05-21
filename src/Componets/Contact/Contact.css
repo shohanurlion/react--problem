@@ -1,0 +1,80 @@
+#Contact{
+    padding: 120px 0px;
+}
+.contact_title {
+    padding-bottom: 62px;
+}
+.contact_title h2{
+    font-family: "poppins";
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color:#282938;
+}
+.contact_title p {
+    padding: 0px 60px 0px 60px;
+    font-family: "poppins";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color:#282938;
+}
+.from_part {
+    display: flex;
+    justify-content: center;
+    padding: 56px 10px 45px 93px;
+    background-color: #F4F6FC;
+}
+.customdiv {
+    padding-right: 257px;
+}
+#Contact label{
+    font-family: "poppins";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color:#000000;
+    padding-bottom: 10px;
+}
+#Contact input[type="text"] {
+    width: 172%;
+    padding: 18px 53px 18px 29px;
+    margin-bottom: 15px;
+    font-family: "'Poppins'";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    border:1px solid rgb(238, 201, 201);
+    color: black !important;
+}
+#Contact input:focus{
+    border:none;
+}
+#Contact textarea {
+    width: 94%;
+    padding: 20px;
+    font-family: "'Poppins'";
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: black !important;
+    border:1px solid rgb(238, 201, 201);
+}
+#Contact .contact_btn {
+    display: inline-block;
+    padding: 22px 64px;
+    margin-top: 30px;
+    border-radius: 41px;
+    background: #282938;
+    color: #F4F6FC;
+    font-family: monrope;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    transition:0.5s;
+}
+#Contact .contact_btn:hover {
+color:black;
+border:1px solid black;
+background-color: transparent;
+}

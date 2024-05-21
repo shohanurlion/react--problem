@@ -1,0 +1,44 @@
+.card{
+    border: none !important;
+}
+.cardbody{
+    padding: 0px !important;
+}
+.date{
+    font-family: "poppins";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    padding: 24px 0px 29px 0px;
+    display: inline-block;
+    color: #282938;
+}
+.cardTitle{
+    font-family: "poppins";
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color:#282938;
+    padding-bottom: 16px;
+    border:none !important;
+}
+.cardptag{
+    font-family: "poppins";
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    color:282938;
+    padding-bottom: 25px;
+    border:none !important;
+}
+
+.blgbtn{
+    font-family: "poppins";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color:#282938;
+}
+.iconarry{
+    font-size:30px;
+}

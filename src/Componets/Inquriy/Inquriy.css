@@ -1,0 +1,60 @@
+.inquriy_left{
+    width:100%;
+    
+    background-image:url(../../assets/img/woman-writing-on-paper-3228878.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.inquriy_left.col-md-6.col-sm-12 {
+    padding: 75px 96px 373px 96px;
+}
+.inquriy_left{
+    color:white;
+}
+
+.from_box.col-md-6.col-sm-12 {
+    background-color: #1C1E53 !important;
+    padding: 81px 96px 67px 96px;
+}
+.form_content{
+    color:white;
+}
+.form_btn{
+    width:100%;
+}
+input[type="text"] {
+    width: 100%;
+    padding: 18px 0px 18px 36px;
+    border-radius: 25px;
+    margin-bottom: 15px;
+    background: transparent;
+    border: none;
+    border: 1px solid white;
+}
+.btn033 {
+    width: 100%;
+    text-align: center;
+    padding: 15px 27px 15px 27px;
+    margin-bottom: 15px;
+    background-color:#FCD980;
+    display: inline-block;
+    border-radius: 25px;
+    color:#1B1C2B;
+}
+.btn032 {
+    width: 100%;
+    text-align: center;
+    padding: 15px 27px 15px 27px;
+    margin-bottom: 15px;
+    background-color: transparent;
+    display: inline-block;
+    border-radius: 25px;
+    transition: 0.5s;
+    color:white;
+}
+.btn032:hover{
+    background-color:#FCD980;
+    color:#1B1C2B;
+}
+

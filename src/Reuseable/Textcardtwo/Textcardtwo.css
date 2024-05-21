@@ -1,0 +1,31 @@
+.right_img{
+    width:85%;
+}
+.left_text{
+    padding:45px 0px;
+}
+.abouttext{
+    font-family: "poppins";
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #282938;
+    padding-bottom: 8px;
+    display: inline-block;
+}
+.textcardhedar{
+font-family: "poppins";
+font-weight: 600;
+font-size: 54px;
+line-height: 74px;
+color:#282938;
+padding-bottom: 0px;
+}
+.textcardptag{
+width:80%;
+font-family: "poppins";
+font-weight: 400;
+font-size: 16px;
+line-height: 28px;
+text-align: justify;
+}

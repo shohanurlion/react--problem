@@ -1,0 +1,45 @@
+.custom{
+    background-color:#1C1E53 !important;
+    position:sticky !important;
+    top:0;
+    z-index: 1;
+}
+.custom2 a{
+    color:white;
+   padding-left:20px;
+   padding-right: 20px;
+}
+.nav-link{
+    margin-right:18px !important;
+    font-family: "popons";
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    color:white !important;
+}
+.nav-link:focus, .nav-link:hover {
+    color:black !important;
+}
+.contactbtn{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "popons";
+    font-size: 16px;
+    font-weight: 500;
+    color:white;
+    margin-left:50px;
+    padding:16px 48px;
+    border:1px solid white;
+    border-radius:41px;
+    transition: 0.5s;
+}
+.contactbtn:hover{
+    background-color: white;
+    color:black;
+}
+.navbar-nav{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}

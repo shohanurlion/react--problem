@@ -1,0 +1,28 @@
+.etitel{
+width:80%;
+font-family: "poppons";
+font-weight: 600;
+font-size: 48px;
+line-height: 64px;
+color:#282938;
+padding-bottom: 16px;
+}
+.workingptags{
+    font-family: "poppons";
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color:#282938;
+    padding-bottom: 25px;
+}
+.workingptag{
+    width:50%;
+    margin: 0 auto;
+    font-family: "poppons";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color:#282938;
+    padding-top: 48px;
+    padding-bottom: 20px;
+}

@@ -1,0 +1,14 @@
+#enverment{
+    padding:120px 0px;
+}
+#main_blog{
+    padding: 29px 0px 79px 0px;
+}
+.main_title{
+    padding-bottom:48px;
+    font-family: "poppins";
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color:#282938;
+}

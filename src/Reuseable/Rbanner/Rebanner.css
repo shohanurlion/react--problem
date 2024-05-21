@@ -1,0 +1,50 @@
+.banner_left{
+width:100%;
+padding:10px;
+}
+.banner_left h1{
+    width:70%;
+   font-family: "Poppins", sans-serif;
+   font-weight: 600;
+   font-size: 54;
+   line-height: 74px;
+   color:white; 
+   padding-bottom:24px;
+}
+.banner_left p{
+    width:90%;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    padding-bottom:48px;
+    color:white;
+}
+.banner_btn .view_work{
+    padding:16px 56px;
+    border:none;
+    background-color: #FCD980;
+    border-radius:41px;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    color:#1B1C2B;
+    margin-right:35px;
+}
+.banner_btn .view_pricing{
+    padding:16px 56px;
+    border:none;
+    background-color:transparent;
+    border-radius:41px;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 32px;
+    color:white;
+    transition: 0.5s;
+}
+.banner_btn .view_pricing:hover{
+    background-color: #FCD980;
+    color:#1B1C2B;
+}

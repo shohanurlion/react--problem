@@ -1,0 +1,17 @@
+#carusel{
+    padding: 120px 0px;
+}
+.sliderimg{
+    width:70px;
+    height:70px;
+    border-radius:50%;
+    margin-right: 15px;
+}
+.carusel_bottom{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+.carusel_bottom h5 ,p{
+  margin-bottom: 0px;
+}
