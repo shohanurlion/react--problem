@@ -20,19 +20,11 @@
 .nav-link:focus, .nav-link:hover {
     color:black !important;
 }
-.contactbtn{
-    display:flex;
-    justify-content: center;
-    align-items: center;
-    font-family: "popons";
-    font-size: 16px;
-    font-weight: 500;
-    color:white;
-    margin-left:50px;
-    padding:16px 48px;
-    border:1px solid white;
-    border-radius:41px;
-    transition: 0.5s;
+button.contactbtn.btn.btn-primary {
+    padding: 9px 34px;
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 7px;
 }
 .contactbtn:hover{
     background-color: white;

@@ -21,7 +21,7 @@ import { Button } from 'react-bootstrap';
             <Link to="/">Pricing</Link>
             <Link to="/">FAQ</Link>
             <Link to="/blog">Blog</Link>
-            <Link to="/contact"><Button>contact</Button></Link>
+            <Link to="/contact"><Button className='contactbtn'>contact</Button></Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
