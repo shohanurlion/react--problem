@@ -1,6 +1,7 @@
 import './Ecard.css'
 import {Col, Container, Row} from 'react-bootstrap'
 import workingimg from '../../assets/img/people-working-in-front-of-computer-3182763.png'
+import { Link } from 'react-router-dom';
 
  function Ecard(props) {
   return (
@@ -19,7 +20,7 @@ import workingimg from '../../assets/img/people-working-in-front-of-computer-318
         </Row>
         <div className='bottom_title text-center'>
             <p className='workingptag'>{props.ptag}</p>
-        <a href="/readblog">Read more</a>
+        <Link to="/readblog">Read more</Link>
         </div>
     </Container>
 
